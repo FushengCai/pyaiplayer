@@ -1,2 +1,2 @@
-from .main import hello
+from pyaiplayer import EnvironmentWrapper
 
